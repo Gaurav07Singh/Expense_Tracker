@@ -117,7 +117,8 @@ const balance = document.getElementById(
   function updateLocalStorage(){
     localStorage.setItem('transactions',JSON.stringify(transactions));
   }
-  
+
+ 
   //3
   
   //Init App
